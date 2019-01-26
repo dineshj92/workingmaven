@@ -1,0 +1,3 @@
+Test Scenario,EnterFirstName,EnterLastname,EnterUsername,EnterLoginPassword,EnterSignupPassword,EnterMobileEmail
+Fillsignupdetails,First,Last,,,Pass,123456789
+Filllogindetails,,,a@gmail.com,pass,,

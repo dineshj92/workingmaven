@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MyFirstTest]">
+  <test thread-count="5" name="GroupTest(failed)">
+    <classes>
+      <class name="com.bix.selenium.test.FacebookTests">
+        <methods>
+          <include name="checkGenderRadioButtons"/>
+          <include name="finish"/>
+          <include name="checkCreateAccountLabel"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.bix.selenium.test.FacebookTests -->
+    </classes>
+  </test> <!-- GroupTest(failed) -->
+</suite> <!-- Failed suite [MyFirstTest] -->

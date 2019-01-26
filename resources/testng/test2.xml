@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MyFirstTest">
+
+	<test name="GroupTest">
+		<classes>
+			<class name="dataprovider.FacebookLoginTest" />
+		</classes>
+	</test>
+
+</suite>

@@ -1,0 +1,6 @@
+Feature: Create An Account Label 
+
+Scenario: Validate Create An Account label in sign up page 
+	Given User is on Facebook sign-up page with URL "www.facebook.com"
+	When The page is loaded
+	Then "Create an account" and uwl is "WWW.Fe=ace.cm" label should be visible
